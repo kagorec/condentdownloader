@@ -1,2 +1,2 @@
 # condentdownloader
-Content Downloader (scrapper)
+Content Downloader (desktop app scrapper)
